@@ -1,0 +1,44 @@
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe.config
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.AssemblyReference.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Form1.resources
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Properties.Resources.resources
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe.config
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.AssemblyReference.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Form1.resources
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Properties.Resources.resources
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\Tamara Atanasova 101616 - Copy\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe.config
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.AssemblyReference.cache
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Form1.resources
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Properties.Resources.resources
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.GenerateResource.cache
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Downloads\Tamara Atanasova 101616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe.config
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.pdb
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.AssemblyReference.cache
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Form1.resources
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Properties.Resources.resources
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.exe
+C:\Users\Tamara\Desktop\УГД\Semestar 4\Vizuelno programiranje\seminarska\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.pdb

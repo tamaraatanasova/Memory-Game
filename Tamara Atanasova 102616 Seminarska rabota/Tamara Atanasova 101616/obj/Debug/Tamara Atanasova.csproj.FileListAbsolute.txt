@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe.config
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.exe
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\bin\Debug\Tamara Atanasova 101616.pdb
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Form1.resources
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara_Atanasova_101616.Properties.Resources.resources
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.exe
+C:\Users\User\Desktop\Tamara Atanasova 102616 Seminarska rabota\Tamara Atanasova 101616\obj\Debug\Tamara Atanasova 101616.pdb
